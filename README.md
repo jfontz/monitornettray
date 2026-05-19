@@ -1,4 +1,3 @@
-````
 # Monitor Internet Uptime
 
 A lightweight Windows system tray app that monitors your internet connection and notifies you when it drops or comes back.
@@ -41,4 +40,3 @@ Output will be in `dist/monitornettray.exe`.
 
 - Logs are in-memory only — they reset when the app closes
 - Notifications use PowerShell under the hood; works in both script and EXE
-````
